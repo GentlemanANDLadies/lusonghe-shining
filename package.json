@@ -1,0 +1,29 @@
+{
+  "name": "shinging",
+  "version": "1.0.0",
+  "description": "lusonghe Object shining",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.8.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GentlemanANDLadies/lusonghe-shining.git"
+  },
+  "keywords": [
+    "shining"
+  ],
+  "author": "lusonghe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GentlemanANDLadies/lusonghe-shining/issues"
+  },
+  "homepage": "https://github.com/GentlemanANDLadies/lusonghe-shining#readme"
+}
